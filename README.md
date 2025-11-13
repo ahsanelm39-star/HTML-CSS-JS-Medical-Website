@@ -7,15 +7,10 @@
 
 ## 🧩 Table of Contents
 - [Demo](#-demo)
-- [Features](#-features)
-- [Tech-Stack](#-tech-stack)
+- [Features](#-Features)
+- [Tech-Stack](#-Tech-Stack)
 - [Screenshots](#-screenshots)
 - [Installation](#-installation)
-- [Usage](#-usage)
-- [Project Structure](#-project-structure)
-- [Future Improvements](#-future-improvements)
-- [Author](#-author)
-- [License](#-license)
 
 ---
 
