@@ -8,7 +8,7 @@
 ## 🧩 Table of Contents
 - [Demo](#-demo)
 - [Features](#-features)
-- [Tech Stack](#-tech-stack)
+- [Tech Stack](#-tech)
 - [Screenshots](#-screenshots)
 - [Installation](#-installation)
 
@@ -28,7 +28,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech
 | Category | Tools |
 |-----------|--------|
 | Frontend | HTML - CSS - JS |
