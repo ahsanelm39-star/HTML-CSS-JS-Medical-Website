@@ -1,5 +1,5 @@
 # 🚀 Mediplus
-![Cover](./screenshots/cover.png)
+![Cover](https://i.postimg.cc/Hkcgf5Gm/dwn-%CA%BFnwan-1700-x-970-byksl-3.png)
 
 **Mediplus** is a modern, responsive, and user-friendly medical website built to provide patients with quick access to healthcare information, doctors, and appointment booking.
 
@@ -43,9 +43,7 @@
 ## 📸 Screenshots
 | Desktop View | Mobile View |
 |---------------|--------------|
-| ![Desktop](./screenshots/desktop.png) | ![Mobile](./screenshots/mobile.png) |
-
-> Add as many screenshots as needed — showing different pages or components.
+| ![Desktop](https://i.postimg.cc/BbKzm5Lh/g4sv-Ba-Ww-Cxo-1.png) | ![Mobile](https://i.postimg.cc/T3Rkbv0X/cca796be141.png) |
 
 ---
 
