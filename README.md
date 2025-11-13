@@ -8,7 +8,7 @@
 ## 🧩 Table of Contents
 - [Demo](#-demo)
 - [Features](#-Features)
-- [Tech-Stack](#-Tech-Stack)
+- [Tech Stack](#-Tech-Stack)
 - [Screenshots](#-screenshots)
 - [Installation](#-installation)
 
