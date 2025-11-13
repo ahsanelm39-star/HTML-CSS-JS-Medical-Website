@@ -32,6 +32,8 @@
 | Category | Tools |
 |-----------|--------|
 | Frontend | HTML - CSS - JS |
+| icons | font awesome |
+| Deployment | Netlify |
 
 ---
 
